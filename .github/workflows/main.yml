@@ -1,4 +1,4 @@
-name: Run Rajput Workflow
+name: Run Heidi Workflow
 
 on:
   push:
